@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lorableiv.github.io/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/app/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/assets/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/css/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/includes/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/item/sitemap.html.gz
+Sitemap: https://lorableiv.github.io/src/sitemap.html.gz
